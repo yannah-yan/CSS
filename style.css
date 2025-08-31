@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 25px;
+}
+
+title {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #050000;
+}
+
+.p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: auto #070000;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
